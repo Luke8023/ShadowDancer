@@ -1,8 +1,12 @@
+https://www.youtube.com/watch?v=5R2KNRpiPww
 # ShadowDancer
 Artist Statement
+
 As an individual who is a passionate dancer, artist and programmer, I always wanted to mix the dance with some level of digital arts. Without the use of any professional hardware but a recordable laptop, it could get hard and frustrating sometimes while testing and adjusting the piece, but art is always fun, and I finally managed to interact with my Shadow Dancer while dancing.
+
 Formal Qualities
 This piece is formed by two modes, the shadow mode, and the dark mode. In the shadow mode, the filter is black and white, and most importantly, one can move their body parts in certain ways to trigger certain effects accordingly. For example, if one moves both arms to the top right, a knife will show up at approximately one’s heart; if one moves right arm up and left arm down, the voice of me shouting “no” will be played; if one open up their arms from the middle to the bottom, the gun shooting animation will show up; and if one put both arms down, the dark mode will be triggered. In the dark mode, there are only the color black and the color white. As one move in front of the camera, some part of the frame’s color will change, and the different part will become in the color of white; while the part with the same color will be in the color of black. This creates very cool looking effects especially when someone does big moves. Also, if one tries to hold your hand on the left or right, one will be able to support either fireballs, water balls or lightning balls, and the balls will finally disappear with the fade of one’s hands.
+
 Context
 This art piece is created in 2020, where street dancing is growing and the Electronic Dance Music (EDM) is becoming increasingly popular. With the rapid development of the Internet and augmented reality technologies, lots of dance videos are being processed by adding all different kinds of effects to make the dance richer. As a dancer who is inspired by such technologies, I wonder the possibility of displaying the result of processing the dance in real-time with the most basic equipment.
 
